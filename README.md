@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 **#code output preview**
-LIVE-DEMO :- <a href="https://countspark.ccbp.tech/">Wikipedia Search Application</a>
+LIVE-DEMO :- <a href="https://countspark.ccbp.tech/">Counter Application</a>
 
 ### `npm start`
 
